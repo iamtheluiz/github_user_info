@@ -32,6 +32,7 @@ html{
     width: 320px;
     background-color: #333a4f;
     color: #96a4ca;
+    font-size: 12pt;
 }
 .searchBar input:focus{
     outline: 0px;
